@@ -1,2 +1,2 @@
-docker build -t imlzw/fastdfs-storage-proxy ./
+docker build -t manuku/fastdfs-storage-proxy ./
 pause
